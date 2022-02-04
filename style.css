@@ -1,4 +1,17 @@
 
-h3.p1 {
+h3 {
     font-family: 'Caladea', italic, serif;
+    font-size: 50px;
+  }
+
+  h4 {
+    font-family: 'Caladea', italic, serif;
+    font-size: 35px;
+  }
+
+  i.fab {
+    color: green;
+    font-size: 30px;
+    margin-left: 20px;
+
   }
